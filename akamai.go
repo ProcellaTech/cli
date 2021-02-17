@@ -20,7 +20,7 @@ import (
 	"strings"
 	"time"
 
-	akamai "github.com/akamai/cli-common-golang"
+	akamai "github.com/ProcellaTech/cli-common-golang"
 	"github.com/kardianos/osext"
 	"github.com/urfave/cli"
 )
