@@ -1,5 +1,5 @@
 [[constraint]]
-  name = "github.com/akamai/cli-common-golang"
+  name = "github.com/ProcellaTech/cli-common-golang"
   branch = "master"
 
 [[constraint]]

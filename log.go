@@ -20,7 +20,7 @@ import (
 	"os"
 	"strings"
 
-	akamai "github.com/akamai/cli-common-golang"
+	akamai "github.com/ProcellaTech/cli-common-golang"
 	log "github.com/sirupsen/logrus"
 )
 

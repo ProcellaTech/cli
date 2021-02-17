@@ -19,7 +19,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	akamai "github.com/akamai/cli-common-golang"
+	akamai "github.com/ProcellaTech/cli-common-golang"
 	"github.com/fatih/color"
 	log "github.com/sirupsen/logrus"
 	"github.com/urfave/cli"

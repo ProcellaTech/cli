@@ -19,7 +19,7 @@ import (
 	"sort"
 	"strings"
 
-	akamai "github.com/akamai/cli-common-golang"
+	akamai "github.com/ProcellaTech/cli-common-golang"
 	"github.com/fatih/color"
 	"github.com/urfave/cli"
 )
